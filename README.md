@@ -1,11 +1,13 @@
 V-X
-V-X
 
 MAIN IDEA : Personal Analytics (??)
 
 http://blog.kirigin.com/personal-analytics
 
 https://news.ycombinator.com/item?id=6641431
+
+-----------------------------------------------------
+
 
 How can we use personal analytics? A wonderful intro by the Analytics head of BigBasket: https://yourstory.com/2018/08/use-data-analytics-personal-life
 
@@ -19,8 +21,13 @@ https://www.kdnuggets.com/2020/03/better-solve-analytics-problems.html
 
 https://www.analyticsinsight.net/human-activity-prediction-using-machine-learning/
 
-My white paper on the subject is coming up soon.
+------------------------------------
+
+My white paper on the subject is (https://github.com/vistack-x/simplex/wp.pdf)[here]
+
                             "Live in the future and build what seems interesting. " --Paul Graham
+                            
+--------------------------
 Links
 
 #Startup Incubator Progs:

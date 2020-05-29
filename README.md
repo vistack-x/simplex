@@ -23,7 +23,7 @@ https://www.analyticsinsight.net/human-activity-prediction-using-machine-learnin
 
 ------------------------------------
 
-My white paper on the subject is [https://github.com/vistack-x/simplex/wp.pdf](here)
+My white paper on the subject is [https://github.com/vistack-x/simplex/blob/master/wp.pdf](here)
 
                             "Live in the future and build what seems interesting. " --Paul Graham
                             
